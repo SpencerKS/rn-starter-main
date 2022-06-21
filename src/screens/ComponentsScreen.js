@@ -5,7 +5,7 @@ const ComponentsScreen = () => {
     
     return (
         <View>
-            <Text style={{fontSize: 40, textAlign: "center"}}>
+            <Text style={{fontSize: 40, textAlign: 'center'}}>
                 Components Screen
             </Text>
             <Text style={styles.text}>

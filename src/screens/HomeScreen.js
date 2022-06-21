@@ -1,8 +1,6 @@
 import React from 'react';
 import { Text, StyleSheet, View, Button, TouchableOpacity } from 'react-native';
-import { clickProps } from 'react-native-web/dist/cjs/modules/forwardedProps';
-import { NavigationEvents } from 'react-navigation';
-import ComponentsScreen from './ComponentsScreen';
+
 
 const HomeScreen = ({ navigation }) => {
   return (
